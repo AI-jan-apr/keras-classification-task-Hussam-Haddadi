@@ -21,3 +21,5 @@ deploy.py
 model_weights.pkl
 scaler_weights.pkl
 ```
+
+![alt text](image.png)
